@@ -36,8 +36,8 @@ pip install requests
 - `main()`: Initializes the Tkinter GUI.
 
 ## Screenshot
-![Image](https://github.com/user-attachments/assets/3399c403-c458-4463-afbc-e1a45195263f)
-![Image](https://github.com/user-attachments/assets/03261392-628e-427c-b984-273e2203f558)
+![Image](https://github.com/user-attachments/assets/6939829c-d42d-40b1-8fd3-9902359bcbb3)
+![Image](https://github.com/user-attachments/assets/6a136c2b-e54f-4730-9421-2114a23d4470)
 
 ## Notes
 - The program **never sends the actual password** to the HIBP API. Instead, it uses the **first 5 characters** of the SHA-1 hash for anonymity.
