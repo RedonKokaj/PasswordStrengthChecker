@@ -37,6 +37,7 @@ pip install requests
 
 ## Screenshot
 ![Image](https://github.com/user-attachments/assets/3399c403-c458-4463-afbc-e1a45195263f)
+![Image](https://github.com/user-attachments/assets/03261392-628e-427c-b984-273e2203f558)
 
 ## Notes
 - The program **never sends the actual password** to the HIBP API. Instead, it uses the **first 5 characters** of the SHA-1 hash for anonymity.
